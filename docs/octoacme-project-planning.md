@@ -34,10 +34,15 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- If ownership is unclear, align role accountability using [Roles & Personas](./octoacme-roles-and-personas.md) and route escalations via [Risk Management & Communication](./octoacme-risks-and-communication.md)
 
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] Backlog owners confirmed (Product Manager + Business Analyst + delivery owner)
 - [ ] Release timeline and milestones agreed
+- [ ] UX/UI, QA, and DevOps handoffs identified for each milestone
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk owners and escalation path documented in the risk register
+- [ ] Planning outputs linked for release readiness in [Release & Deployment Guide](./octoacme-release-and-deployment.md)

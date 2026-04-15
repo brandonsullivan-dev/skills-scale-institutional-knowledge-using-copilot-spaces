@@ -46,4 +46,4 @@ From the [Project Management Overview](./octoacme-project-management-overview.md
   Retro timing and structure, facilitation guidance, and how to track improvement actions.
 
 - [Roles & Personas](./octoacme-roles-and-personas.md)  
-  Role summaries, responsibilities, goals, and communication patterns for Developers, Product Managers, and Project Managers.
+  Standardized role definitions (Summary, Major Responsibilities, Typical Interactions, Communication Touchpoints) for core and extended delivery roles, including release, QA, DevOps, design, analysis, and support handoffs.
